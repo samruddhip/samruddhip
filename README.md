@@ -1,4 +1,4 @@
-<center><img src="https://cdni.iconscout.com/illustration/premium/thumb/female-programmer-developed-website-6818422-5606167.png" alt="Samruddhi"/>
+<img align="center" src="https://cdni.iconscout.com/illustration/premium/thumb/female-programmer-developed-website-6818422-5606167.png" alt="Samruddhi"/></br>
 <h1 align="center">Hi 👋, I'm Samruddhi Phutane</h1>
 <h3 align="center">Computer Science & Engineering Student, Developer and Freelancer !!</h3></br>
 
@@ -19,4 +19,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samruddhip&show_icons=true&locale=en&layout=compact" alt="samruddhip" /></p>
 </br>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samruddhip&show_icons=true&locale=en" alt="samruddhip" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samruddhip&" alt="samruddhip" /></p></center>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samruddhip&" alt="samruddhip" /></p>
