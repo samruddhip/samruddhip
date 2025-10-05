@@ -11,5 +11,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samruddhip&show_icons=true&locale=en&layout=compact" alt="samruddhip" /></br></p>
 <h3> GitHub Profile Stat Card</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samruddhip&show_icons=true&locale=en" alt="samruddhip" /></p></br>
-<h3> GitHub Profile Streak Card</h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samruddhip&" alt="samruddhip" /></p>
