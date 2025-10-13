@@ -30,14 +30,3 @@
 </p>
 
 ---
-
-📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samruddhip&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samruddhip&theme=github-dark&hide_border=false" height="180"/>
-</p>
-
----
-
-⭐️ *Thanks for visiting my profile!*
